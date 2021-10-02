@@ -18,10 +18,10 @@
 
 ```bash
 # Clone the repository
-$ git clone https://github.com/Hepsiburada-Backend-Bootcamp/homework-1-enes-tokol-HBWeekOneAPI.git
+$ git clone https://github.com/Hepsiburada-Backend-Bootcamp/homework-2-enes-tokol-ProductAPI.git
 
 # Change directory
-$ cd homework-1-enes-tokol-HBWeekOneAPI.git
+$ cd homework-2-enes-tokol-ProductAPI.git
 
 # Install Requirements
 $ dotnet restore
